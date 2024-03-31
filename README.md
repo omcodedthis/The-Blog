@@ -38,7 +38,7 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 
 ## Commands
 
-All commands are run from the root of the project, from a terminal:
+All command need to be run from the root of the project in a terminal:
 
 > **_Note!_** For `Docker` commands you must have it [installed](https://docs.docker.com/engine/install/) before running any `docker` commands.
 
@@ -58,7 +58,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## Getting Started
 - Clone this repository locally.
-- Run these commands to build & run a dev site to make your changes:
+- Run these commands to build & run a development site to make your changes:
 ```
 npm install
 npm run build
