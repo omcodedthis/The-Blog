@@ -5,7 +5,7 @@ The source code for my blog, named "The Blog" which is built using [Astro](https
 
 ## Project Structure
 
-Inside of AstroPaper, you'll see the following folders and files:
+The file structure is as follows:
 
 ```bash
 /
