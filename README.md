@@ -34,7 +34,9 @@ The file structure is as follows:
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its filename. Any static assets, like images, can be placed in the `public/` directory. All blog posts are stored in the `src/content/blog` directory.
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its filename. 
+
+Any static assets, like images, can be placed in the `public/` directory. All blog posts are stored in the `src/content/blog` directory.
 
 ## Commands
 
