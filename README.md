@@ -68,5 +68,5 @@ npm run dev
 ```
 - Alternatively, you can run this command to see how the live website will be served:
 ```
-npm run dev
+npm run preview
 ```
