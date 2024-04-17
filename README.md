@@ -23,7 +23,7 @@ The file structure is as follows:
 │   ├── components/
 │   ├── content/
 │   │   |  blog/
-│   │   |    └── some-blog-posts.md
+│   │   |    └── some-blog-post.md
 │   │   └── config.ts
 │   ├── layouts/
 │   └── pages/
