@@ -1,5 +1,5 @@
 # The-Blog
-The source code for my blog, named "The Blog" which is built using [Astro](https://astro.build/). Astro is an open-source, server-first web framework that combines the best of static site generation (SSG) and server-side rendering (SSR) to create fast, SEO-friendly websites. `The-Blog` is built using this [Astro template](https://github.com/satnaing/astro-paper).
+The source code for my blog, named 'The Blog' which is built using [Astro](https://astro.build/). Astro is an open-source, server-first web framework that combines the best of static site generation (SSG) and server-side rendering (SSR) to create fast, SEO-friendly websites. `My-Blog` (named as 'The Blog') is built using this [Astro template](https://github.com/satnaing/astro-paper).
 
 ### [The website is now live!](https://omsblog.pages.dev/)
 
