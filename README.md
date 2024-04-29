@@ -51,10 +51,9 @@ All command need to be run from the root of the project in a terminal:
 | `npm run build`                      | Build your production site to `./dist/`                                                                                          |
 | `npm run preview`                    | Preview your build locally, before deploying                                                                                     |
 | `npm run format:check`               | Check code format with Prettier                                                                                                  |
-| `npm run format`                     | Format codes with Prettier                                                                                                       |
+| `npm run format`                     | Format with Prettier                                                                                                             |
 | `npm run sync`                       | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
-| `docker compose up -d`               | Run AstroPaper on Docker, You can access with the same hostname and port informed on `dev` command.                              |
-| `docker compose run app npm install` | You can run any command above into the docker container.                                                                         |
+| `docker compose up -d`               | Run AstroPaper on Docker, You can access with the same hostname and port informed using the `dev` command.                       |
 
 > **_Warning!_** Windows PowerShell users may need to install the [concurrently package](https://www.npmjs.com/package/concurrently) if they want to [run diagnostics](https://docs.astro.build/en/reference/cli-reference/#astro-check) during development (`astro check --watch & astro dev`).
 
