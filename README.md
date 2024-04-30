@@ -40,7 +40,7 @@ Any static assets, like images, can be placed in the `public/` directory. All bl
 
 ## Commands
 
-All command need to be run from the root of the project in a terminal:
+All the commands listed below need to be run from the root of the project:
 
 > **_Note!_** For `Docker` commands you must have it [installed](https://docs.docker.com/engine/install/) before running any `docker` commands.
 
